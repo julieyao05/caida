@@ -1,0 +1,792 @@
+IP: 98.138.252.30
+Result: ecn-badsynack
+URL: https://www.yahoo.com/
+
+IP: 206.190.36.105
+Result: ecn-badsynack
+URL: https://www.yahoo.com/
+
+IP: 66.220.146.36
+Result: ecn-incapable
+URL: https://www.facebook.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.in/?gws_rd=ssl
+
+IP: 131.253.61.68
+Result: ecn-incapable
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1447790458&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.jp/?gws_rd=ssl
+
+IP: 131.253.61.82
+Result: ecn-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1447790458&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 108.174.10.10
+Result: ecn-success
+URL: https://www.linkedin.com/
+
+IP: 23.213.176.112
+Result: ecn-incapable
+URL: http://www.ebay.com/
+
+IP: 140.205.16.121
+Result: ecn-success
+URL: http://err.taobao.com/error2.html?c=500&u=http://www.taobao.com/market/global/index_new.php&r=
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.de/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.uk/?gws_rd=ssl
+
+IP: 47.89.68.254
+Result: ecn-success
+URL: https://www.tmall.com/
+
+IP: 23.21.147.4
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 23.21.81.6
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 198.41.209.138
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.21.229.107
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 23.21.55.221
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 182.22.63.230
+Result: ecn-success
+URL: http://www.yahoo.co.jp/
+
+IP: 47.89.68.253
+Result: ecn-success
+URL: https://www.tmall.com/
+
+IP: 87.240.143.241
+Result: ecn-success
+URL: http://vk.com/
+
+IP: 198.35.26.96
+Result: ecn-success
+URL: https://www.wikipedia.org/
+
+IP: 182.22.59.229
+Result: ecn-success
+URL: http://www.yahoo.co.jp/
+
+IP: 216.58.217.205
+Result: ecn-incapable
+URL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home
+
+IP: 123.125.114.5
+Result: ecn-incapable
+URL: https://www.hao123.com/
+
+IP: 78.140.145.202
+Result: ecn-incapable
+URL: http://www.onclickads.net/images/main.png
+
+IP: 192.0.78.17
+Result: ecn-success
+URL: https://wordpress.com/
+
+IP: 23.216.11.49
+Result: ecn-incapable
+URL: http://www.ask.com/
+
+IP: 54.165.189.118
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 54.175.239.129
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 94.100.180.202
+Result: ecn-incapable
+URL: https://mail.ru/
+
+IP: 198.41.208.138
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.216.11.67
+Result: ecn-incapable
+URL: http://www.aliexpress.com/
+
+IP: 23.212.16.163
+Result: ecn-incapable
+URL: https://www.paypal.com/home
+
+IP: 54.152.226.110
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 217.69.139.200
+Result: ecn-incapable
+URL: https://mail.ru/
+
+IP: 54.174.22.99
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 141.0.174.43
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.35
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.44
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 77.88.55.55
+Result: ecn-success
+URL: https://www.yandex.ru/
+
+IP: 141.0.174.37
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.34
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 184.26.60.180
+Result: ecn-incapable
+URL: http://www.microsoft.com/en-us/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.es/?gws_rd=ssl
+
+IP: 23.55.73.64
+Result: ecn-incapable
+URL: http://www.apple.com/
+
+IP: 101.227.172.11
+Result: ecn-incapable
+URL: http://www.sohu.com/
+
+IP: 66.6.42.30
+Result: ecn-success
+URL: https://www.tumblr.com/
+
+IP: 117.169.23.173
+Result: ecn-incapable
+URL: http://www.gmw.cn/
+
+IP: 211.90.28.98
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 221.194.184.166
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 61.240.138.246
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 60.6.197.39
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 106.120.167.66
+Result: ecn-incapable
+URL: http://www.360.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.mx/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.hk/?gws_rd=ssl
+
+IP: 31.192.117.132
+Result: ecn-incapable
+URL: http://www.pornhub.com/
+
+IP: 23.216.11.25
+Result: ecn-incapable
+URL: http://www.naver.com/
+
+IP: 198.41.209.142
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 204.102.114.42
+Result: ecn-incapable
+URL: http://diply.com/
+
+IP: 124.225.65.154
+Result: ecn-badsynack
+URL: http://www.tianya.cn/
+
+IP: 54.239.36.155
+Result: ecn-incapable
+URL: http://www.amazon.co.uk/
+
+IP: 77.88.55.66
+Result: ecn-success
+URL: https://www.yandex.ru/
+
+IP: 68.71.212.186
+Result: ecn-incapable
+URL: http://espn.go.com/
+
+IP: 217.20.147.94
+Result: ecn-success
+URL: http://www.ok.ru/
+
+IP: 88.208.29.24
+Result: ecn-incapable
+URL: http://xhamster.com/
+
+IP: 202.248.110.243
+Result: ecn-badsynack
+URL: http://www.nicovideo.jp/
+
+IP: 198.41.208.137
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.55.77.245
+Result: ecn-incapable
+URL: http://www.outbrain.com/images/pages/engage/animation/visual-revenue/real-time-recommendations/computer.png
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.pl/?gws_rd=ssl
+
+IP: 209.177.88.4
+Result: ecn-incapable
+URL: http://www.xinhuanet.com/
+
+IP: 23.11.162.193
+Result: ecn-incapable
+URL: http://www.ebay.de/
+
+IP: 23.216.11.49
+Result: ecn-incapable
+URL: http://www.qq.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.au/?gws_rd=ssl
+
+IP: 103.23.108.200
+Result: ecn-incapable
+URL: https://www.pixnet.net/
+
+IP: 23.216.11.26
+Result: ecn-incapable
+URL: http://www.cntv.cn/
+
+IP: 67.212.88.146
+Result: ecn-success
+URL: https://kat.cr/
+
+IP: 130.211.186.109
+Result: ecn-success
+URL: http://www.adnetworkperformance.com/
+
+IP: 205.204.64.122
+Result: ecn-success
+URL: https://kat.cr/
+
+IP: 108.160.172.206
+Result: ecn-success
+URL: https://www.dropbox.com/
+
+IP: 54.219.157.196
+Result: ecn-success
+URL: http://www.fc2.com/
+
+IP: 195.8.215.139
+Result: ecn-success
+URL: http://www.dailymotion.com/us
+
+IP: 199.59.148.82
+Result: ecn-success
+URL: https://twitter.com/
+
+IP: 208.82.238.130
+Result: ecn-incapable
+URL: http://sandiego.craigslist.org/
+
+IP: 212.58.244.67
+Result: ecn-success
+URL: http://www.bbc.co.uk/
+
+IP: 192.229.163.158
+Result: ecn-success
+URL: http://www.jd.com/
+
+IP: 199.59.148.10
+Result: ecn-success
+URL: https://twitter.com/
+
+IP: 54.192.138.154
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 216.137.45.207
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 54.192.137.57
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 198.41.209.137
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 54.230.138.48
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 198.41.208.139
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 198.41.209.141
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 198.41.209.139
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 104.16.34.249
+Result: ecn-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.33.249
+Result: ecn-success
+URL: http://stackoverflow.com/
+
+IP: 195.8.215.138
+Result: ecn-success
+URL: http://www.dailymotion.com/us
+
+IP: 121.14.1.190
+Result: ecn-success
+URL: http://www.sina.com.cn/
+
+IP: 98.138.252.30
+Result: ecn-badsynack
+URL: https://www.yahoo.com/
+
+IP: 206.190.36.105
+Result: ecn-badsynack
+URL: https://www.yahoo.com/
+
+IP: 66.220.146.36
+Result: ecn-incapable
+URL: https://www.facebook.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.in/?gws_rd=ssl
+
+IP: 131.253.61.68
+Result: ecn-incapable
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1447790458&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.jp/?gws_rd=ssl
+
+IP: 131.253.61.82
+Result: ecn-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1447790458&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 108.174.10.10
+Result: ecn-success
+URL: https://www.linkedin.com/
+
+IP: 23.213.176.112
+Result: ecn-incapable
+URL: http://www.ebay.com/
+
+IP: 140.205.16.121
+Result: ecn-success
+URL: http://err.taobao.com/error2.html?c=500&u=http://www.taobao.com/market/global/index_new.php&r=
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.de/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.co.uk/?gws_rd=ssl
+
+IP: 47.89.68.254
+Result: ecn-success
+URL: https://www.tmall.com/
+
+IP: 23.21.147.4
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 23.21.81.6
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 198.41.209.138
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.21.229.107
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 23.21.55.221
+Result: ecn-success
+URL: https://www.pinterest.com/
+
+IP: 182.22.63.230
+Result: ecn-success
+URL: http://www.yahoo.co.jp/
+
+IP: 47.89.68.253
+Result: ecn-success
+URL: https://www.tmall.com/
+
+IP: 87.240.143.241
+Result: ecn-success
+URL: http://vk.com/
+
+IP: 198.35.26.96
+Result: ecn-success
+URL: https://www.wikipedia.org/
+
+IP: 182.22.59.229
+Result: ecn-success
+URL: http://www.yahoo.co.jp/
+
+IP: 216.58.217.205
+Result: ecn-incapable
+URL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home
+
+IP: 123.125.114.5
+Result: ecn-incapable
+URL: https://www.hao123.com/
+
+IP: 78.140.145.202
+Result: ecn-incapable
+URL: http://www.onclickads.net/images/main.png
+
+IP: 192.0.78.17
+Result: ecn-success
+URL: https://wordpress.com/
+
+IP: 23.216.11.49
+Result: ecn-incapable
+URL: http://www.ask.com/
+
+IP: 54.165.189.118
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 54.175.239.129
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 94.100.180.202
+Result: ecn-incapable
+URL: https://mail.ru/
+
+IP: 198.41.208.138
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.216.11.67
+Result: ecn-incapable
+URL: http://www.aliexpress.com/
+
+IP: 23.212.16.163
+Result: ecn-incapable
+URL: https://www.paypal.com/home
+
+IP: 54.152.226.110
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 217.69.139.200
+Result: ecn-incapable
+URL: https://mail.ru/
+
+IP: 54.174.22.99
+Result: ecn-success
+URL: https://instagram.com/
+
+IP: 141.0.174.43
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.35
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.44
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 77.88.55.55
+Result: ecn-success
+URL: https://www.yandex.ru/
+
+IP: 141.0.174.37
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.34
+Result: ecn-incapable
+URL: http://www.xvideos.com/
+
+IP: 184.26.60.180
+Result: ecn-incapable
+URL: http://www.microsoft.com/en-us/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.es/?gws_rd=ssl
+
+IP: 23.55.73.64
+Result: ecn-incapable
+URL: http://www.apple.com/
+
+IP: 101.227.172.11
+Result: ecn-incapable
+URL: http://www.sohu.com/
+
+IP: 66.6.42.30
+Result: ecn-success
+URL: https://www.tumblr.com/
+
+IP: 117.169.23.173
+Result: ecn-incapable
+URL: http://www.gmw.cn/
+
+IP: 211.90.28.98
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 221.194.184.166
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 61.240.138.246
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 60.6.197.39
+Result: ecn-success
+URL: http://www.gmw.cn/
+
+IP: 106.120.167.66
+Result: ecn-incapable
+URL: http://www.360.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.mx/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.hk/?gws_rd=ssl
+
+IP: 31.192.117.132
+Result: ecn-incapable
+URL: http://www.pornhub.com/
+
+IP: 23.216.11.25
+Result: ecn-incapable
+URL: http://www.naver.com/
+
+IP: 198.41.209.142
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 204.102.114.42
+Result: ecn-incapable
+URL: http://diply.com/
+
+IP: 124.225.65.154
+Result: ecn-badsynack
+URL: http://www.tianya.cn/
+
+IP: 54.239.36.155
+Result: ecn-incapable
+URL: http://www.amazon.co.uk/
+
+IP: 77.88.55.66
+Result: ecn-success
+URL: https://www.yandex.ru/
+
+IP: 68.71.212.186
+Result: ecn-incapable
+URL: http://espn.go.com/
+
+IP: 217.20.147.94
+Result: ecn-success
+URL: http://www.ok.ru/
+
+IP: 88.208.29.24
+Result: ecn-incapable
+URL: http://xhamster.com/
+
+IP: 202.248.110.243
+Result: ecn-badsynack
+URL: http://www.nicovideo.jp/
+
+IP: 198.41.208.137
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 23.55.77.245
+Result: ecn-incapable
+URL: http://www.outbrain.com/images/pages/engage/animation/visual-revenue/real-time-recommendations/computer.png
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.pl/?gws_rd=ssl
+
+IP: 209.177.88.4
+Result: ecn-incapable
+URL: http://www.xinhuanet.com/
+
+IP: 23.11.162.193
+Result: ecn-incapable
+URL: http://www.ebay.de/
+
+IP: 23.216.11.49
+Result: ecn-incapable
+URL: http://www.qq.com/
+
+IP: 216.58.217.195
+Result: ecn-incapable
+URL: https://www.google.com.au/?gws_rd=ssl
+
+IP: 103.23.108.200
+Result: ecn-incapable
+URL: https://www.pixnet.net/
+
+IP: 23.216.11.26
+Result: ecn-incapable
+URL: http://www.cntv.cn/
+
+IP: 67.212.88.146
+Result: ecn-success
+URL: https://kat.cr/
+
+IP: 130.211.186.109
+Result: ecn-success
+URL: http://www.adnetworkperformance.com/
+
+IP: 205.204.64.122
+Result: ecn-success
+URL: https://kat.cr/
+
+IP: 108.160.172.206
+Result: ecn-success
+URL: https://www.dropbox.com/
+
+IP: 54.219.157.196
+Result: ecn-success
+URL: http://www.fc2.com/
+
+IP: 195.8.215.139
+Result: ecn-success
+URL: http://www.dailymotion.com/us
+
+IP: 199.59.148.82
+Result: ecn-success
+URL: https://twitter.com/
+
+IP: 208.82.238.130
+Result: ecn-incapable
+URL: http://sandiego.craigslist.org/
+
+IP: 212.58.244.67
+Result: ecn-success
+URL: http://www.bbc.co.uk/
+
+IP: 192.229.163.158
+Result: ecn-success
+URL: http://www.jd.com/
+
+IP: 199.59.148.10
+Result: ecn-success
+URL: https://twitter.com/
+
+IP: 54.192.138.154
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 216.137.45.207
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 54.192.137.57
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 198.41.209.137
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 54.230.138.48
+Result: ecn-success
+URL: http://www.directrev.com/fonts/glyphicons-halflings-regular.eot
+
+IP: 198.41.208.139
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 198.41.209.141
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 198.41.209.139
+Result: ecn-success
+URL: https://www.reddit.com/
+
+IP: 104.16.34.249
+Result: ecn-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.33.249
+Result: ecn-success
+URL: http://stackoverflow.com/
+
+IP: 195.8.215.138
+Result: ecn-success
+URL: http://www.dailymotion.com/us
+
+IP: 121.14.1.190
+Result: ecn-success
+URL: http://www.sina.com.cn/
+

@@ -1,0 +1,784 @@
+IP: 206.190.36.45
+Result: sack-rcvr-success
+URL: https://www.yahoo.com/
+
+IP: 206.190.36.105
+Result: sack-rcvr-success
+URL: https://www.yahoo.com/
+
+IP: 216.58.217.196
+Result: sack-rcvr-success
+URL: https://www.google.com/?gws_rd=ssl
+
+IP: 216.58.217.206
+Result: sack-rcvr-success
+URL: https://www.youtube.com/
+
+IP: 69.171.230.5
+Result: sack-rcvr-success
+URL: https://www.facebook.com/
+
+IP: 216.58.217.195
+Result: sack-rcvr-success
+URL: https://www.google.co.in/?gws_rd=ssl
+
+IP: 199.59.148.82
+Result: sack-rcvr-success
+URL: https://twitter.com/
+
+IP: 208.80.154.224
+Result: sack-rcvr-success
+URL: https://www.wikipedia.org/
+
+IP: 199.59.150.7
+Result: sack-rcvr-success
+URL: https://twitter.com/
+
+IP: 199.59.149.198
+Result: sack-rcvr-success
+URL: https://twitter.com/
+
+IP: 199.59.149.230
+Result: sack-rcvr-success
+URL: https://twitter.com/
+
+IP: 103.235.46.39
+Result: sack-rcvr-success
+URL: http://www.baidu.com/
+
+IP: 131.253.61.80
+Result: sack-rcvr-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438990488&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.84
+Result: sack-rcvr-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438990488&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.68
+Result: sack-incapable
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438990488&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.100
+Result: sack-rcvr-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438990488&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 108.174.10.10
+Result: sack-rcvr-success
+URL: https://www.linkedin.com/
+
+IP: 205.251.242.54
+Result: sack-incapable
+URL: https://www.amazon.com/gp/gw/ajax/s.html/186-5966776-9989646
+
+IP: 58.63.236.248
+Result: tcp-rst
+URL: http://www.sina.com.cn/
+
+IP: 121.14.1.189
+Result: tcp-rst
+URL: http://www.sina.com.cn/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.jp/?gws_rd=ssl
+
+IP: 118.151.235.191
+Result: sack-rcvr-success
+URL: http://www.yahoo.co.jp/
+
+IP: 118.151.231.231
+Result: sack-rcvr-success
+URL: http://www.yahoo.co.jp/
+
+IP: 182.22.39.242
+Result: sack-rcvr-success
+URL: http://www.yahoo.co.jp/
+
+IP: 183.79.139.228
+Result: sack-rcvr-success
+URL: http://www.yahoo.co.jp/
+
+IP: 121.14.1.190
+Result: tcp-rst
+URL: http://www.sina.com.cn/
+
+IP: 66.211.181.181
+Result: sack-incapable
+URL: http://www.ebay.com/
+
+IP: 66.211.181.161
+Result: sack-incapable
+URL: http://www.ebay.com/
+
+IP: 66.135.210.61
+Result: sack-incapable
+URL: http://www.ebay.com/
+
+IP: 203.90.242.119
+Result: sack-rcvr-success
+URL: http://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=http://weibo.com/&domain=.weibo.com&ua=php-sso_sdk_client-0.6.11&_rand=1438990490.704
+
+IP: 216.58.217.205
+Result: sack-rcvr-success
+URL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home
+
+IP: 66.135.210.181
+Result: sack-incapable
+URL: http://www.ebay.com/
+
+IP: 173.223.52.176
+Result: sack-rcvr-success
+URL: http://www.qq.com/
+
+IP: 173.223.52.202
+Result: sack-rcvr-success
+URL: http://www.qq.com/
+
+IP: 204.79.197.200
+Result: sack-rcvr-success
+URL: http://www.bing.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.de/?gws_rd=ssl
+
+IP: 204.79.197.203
+Result: sack-rcvr-success
+URL: http://www.msn.com/
+
+IP: 54.152.123.119
+Result: tcp-noconn-rst
+URL: https://instagram.com/
+
+IP: 54.152.159.114
+Result: tcp-noconn-rst
+URL: https://instagram.com/
+
+IP: 87.240.131.118
+Result: sack-rcvr-success
+URL: http://vk.com/
+
+IP: 87.240.143.241
+Result: sack-rcvr-success
+URL: http://vk.com/
+
+IP: 87.240.131.117
+Result: sack-rcvr-success
+URL: http://vk.com/
+
+IP: 54.164.135.0
+Result: sack-rcvr-success
+URL: https://instagram.com/
+
+IP: 77.88.55.66
+Result: sack-rcvr-success
+URL: https://www.yandex.ru/
+
+IP: 77.88.55.55
+Result: sack-rcvr-success
+URL: https://www.yandex.ru/
+
+IP: 5.255.255.55
+Result: sack-rcvr-success
+URL: https://www.yandex.ru/
+
+IP: 5.255.255.5
+Result: sack-rcvr-success
+URL: https://www.yandex.ru/
+
+IP: 198.41.209.139
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 52.7.149.11
+Result: sack-rcvr-success
+URL: https://instagram.com/
+
+IP: 54.164.32.252
+Result: sack-rcvr-success
+URL: https://instagram.com/
+
+IP: 198.41.209.137
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 54.164.96.198
+Result: sack-rcvr-success
+URL: https://instagram.com/
+
+IP: 198.41.208.139
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.209.136
+Result: sack-incapable
+URL: http://www.reddit.com/
+
+IP: 198.41.209.138
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.142
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.209.140
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.138
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.137
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.209.142
+Result: sack-incapable
+URL: http://www.reddit.com/
+
+IP: 198.41.209.141
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.140
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.143
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.208.141
+Result: sack-rcvr-success
+URL: http://www.reddit.com/
+
+IP: 198.41.209.143
+Result: sack-incapable
+URL: http://www.reddit.com/
+
+IP: 216.58.217.195
+Result: sack-rcvr-success
+URL: https://www.google.co.uk/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.br/?gws_rd=ssl
+
+IP: 198.11.132.241
+Result: sack-rcvr-success
+URL: http://www.aliexpress.com/
+
+IP: 54.240.250.0
+Result: sack-incapable
+URL: http://www.amazon.co.jp/
+
+IP: 173.223.52.208
+Result: sack-rcvr-success
+URL: http://www.ask.com/
+
+IP: 173.223.52.194
+Result: sack-rcvr-success
+URL: http://www.ask.com/
+
+IP: 23.6.189.112
+Result: sack-rcvr-success
+URL: http://www.microsoft.com/en-us/
+
+IP: 54.197.253.55
+Result: tcp-noconn-rst
+URL: https://www.pinterest.com/
+
+IP: 54.225.164.124
+Result: tcp-noconn-rst
+URL: https://www.pinterest.com/
+
+IP: 54.204.16.121
+Result: sack-rcvr-success
+URL: https://www.pinterest.com/
+
+IP: 107.20.233.143
+Result: sack-rcvr-success
+URL: https://www.pinterest.com/
+
+IP: 54.225.245.39
+Result: sack-rcvr-success
+URL: https://www.pinterest.com/
+
+IP: 192.0.78.17
+Result: sack-rcvr-success
+URL: https://wordpress.com/
+
+IP: 50.19.101.219
+Result: sack-rcvr-success
+URL: https://www.pinterest.com/
+
+IP: 192.0.78.9
+Result: sack-rcvr-success
+URL: https://wordpress.com/
+
+IP: 54.221.236.218
+Result: sack-rcvr-success
+URL: https://www.pinterest.com/
+
+IP: 66.6.43.30
+Result: sack-rcvr-success
+URL: https://www.tumblr.com/
+
+IP: 66.6.42.30
+Result: sack-rcvr-success
+URL: https://www.tumblr.com/
+
+IP: 66.6.41.30
+Result: sack-rcvr-success
+URL: https://www.tumblr.com/
+
+IP: 23.235.40.193
+Result: sack-rcvr-success
+URL: http://imgur.com/
+
+IP: 23.222.167.156
+Result: sack-rcvr-success
+URL: https://www.paypal.com/home
+
+IP: 78.140.145.202
+Result: sack-rcvr-success
+URL: http://www.onclickads.net/images/main.png
+
+IP: 141.0.174.34
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 217.69.139.202
+Result: sack-rcvr-success
+URL: https://mail.ru/
+
+IP: 94.100.180.200
+Result: sack-rcvr-success
+URL: https://mail.ru/
+
+IP: 217.69.139.200
+Result: sack-rcvr-success
+URL: https://mail.ru/
+
+IP: 94.100.180.202
+Result: sack-rcvr-success
+URL: https://mail.ru/
+
+IP: 141.0.174.35
+Result: sack-rcvr-success
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.36
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.37
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.38
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.40
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 50.18.211.49
+Result: sack-rcvr-success
+URL: http://www.fc2.com/
+
+IP: 141.0.174.41
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.42
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 23.6.185.160
+Result: sack-rcvr-success
+URL: http://www.apple.com/
+
+IP: 207.171.162.180
+Result: sack-incapable
+URL: http://www.imdb.com/
+
+IP: 141.0.174.43
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.44
+Result: sack-incapable
+URL: http://www.xvideos.com/
+
+IP: 104.16.102.85
+Result: sack-rcvr-success
+URL: http://stackoverflow.com/
+
+IP: 54.212.255.20
+Result: sack-rcvr-success
+URL: https://www.netflix.com/
+
+IP: 104.16.103.85
+Result: sack-rcvr-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.104.85
+Result: sack-rcvr-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.105.85
+Result: sack-rcvr-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.106.85
+Result: sack-rcvr-success
+URL: http://stackoverflow.com/
+
+IP: 191.238.18.91
+Result: sack-rcvr-success
+URL: http://diply.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.fr/?gws_rd=ssl
+
+IP: 173.223.52.170
+Result: sack-rcvr-success
+URL: http://www.naver.com/
+
+IP: 124.225.65.154
+Result: sack-rcvr-success
+URL: http://www.tianya.cn/
+
+IP: 61.135.185.29
+Result: sack-rcvr-success
+URL: http://cn.hao123.com/
+
+IP: 54.239.34.172
+Result: sack-incapable
+URL: http://www.amazon.de/
+
+IP: 123.125.112.45
+Result: sack-incapable
+URL: http://cn.hao123.com/
+
+IP: 216.58.217.195
+Result: sack-rcvr-success
+URL: https://www.google.com.hk/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.ca/?gws_rd=ssl
+
+IP: 217.20.147.94
+Result: sack-rcvr-success
+URL: http://www.ok.ru/
+
+IP: 217.20.155.58
+Result: sack-rcvr-success
+URL: http://www.ok.ru/
+
+IP: 173.223.52.192
+Result: sack-rcvr-success
+URL: http://www.naver.com/
+
+IP: 216.58.221.67
+Result: sack-rcvr-success
+URL: https://www.google.com.mx/?gws_rd=ssl
+
+IP: 217.20.156.159
+Result: sack-rcvr-success
+URL: http://www.ok.ru/
+
+IP: 23.6.180.106
+Result: sack-rcvr-success
+URL: http://www.rakuten.co.jp/
+
+IP: 23.6.176.97
+Result: sack-rcvr-success
+URL: http://www.outbrain.com/images/pages/engage/animation/visual-revenue/real-time-recommendations/computer.png
+
+IP: 104.154.36.143
+Result: sack-rcvr-success
+URL: https://www.adcash.com/en/index.php
+
+IP: 185.28.222.11
+Result: sack-rcvr-success
+URL: http://www.booking.com/index.en-gb.html?sid=34076ddec3e54a2e737cc0849b23b609;dcid=1;bb_ltbi=0&sb_price_type=total&
+
+IP: 31.192.117.132
+Result: sack-rcvr-success
+URL: http://www.pornhub.com/
+
+IP: 199.27.79.73
+Result: sack-rcvr-success
+URL: http://www.cnn.com/
+
+IP: 88.208.29.24
+Result: sack-incapable
+URL: http://xhamster.com/
+
+IP: 88.208.18.30
+Result: sack-incapable
+URL: http://xhamster.com/
+
+IP: 178.236.6.251
+Result: sack-incapable
+URL: http://www.amazon.co.uk/
+
+IP: 192.150.16.64
+Result: sack-rcvr-success
+URL: http://www.adobe.com/
+
+IP: 67.212.88.10
+Result: sack-rcvr-success
+URL: http://kat.cr/
+
+IP: 205.204.64.122
+Result: sack-rcvr-success
+URL: http://kat.cr/
+
+IP: 199.181.131.249
+Result: sack-rcvr-success
+URL: http://go.com/
+
+IP: 68.71.58.34
+Result: sack-rcvr-success
+URL: http://kat.cr/
+
+IP: 23.6.179.183
+Result: sack-rcvr-success
+URL: http://www.ebay.de/
+
+IP: 202.248.110.243
+Result: sack-incapable
+URL: http://www.nicovideo.jp/
+
+IP: 203.90.249.162
+Result: sack-rcvr-success
+URL: http://www.sogou.com/?rfrom=soso
+
+IP: 67.212.88.146
+Result: sack-rcvr-success
+URL: http://kat.cr/
+
+IP: 212.58.246.95
+Result: sack-rcvr-success
+URL: http://www.bbc.co.uk/
+
+IP: 212.58.246.94
+Result: sack-rcvr-success
+URL: http://www.bbc.co.uk/
+
+IP: 192.30.252.129
+Result: sack-rcvr-success
+URL: https://github.com/
+
+IP: 163.53.76.55
+Result: sack-rcvr-success
+URL: http://www.flipkart.com/
+
+IP: 173.223.52.178
+Result: sack-rcvr-success
+URL: http://www.cntv.cn/
+
+IP: 163.53.77.22
+Result: sack-rcvr-success
+URL: http://www.flipkart.com/
+
+IP: 23.236.126.18
+Result: sack-rcvr-success
+URL: http://www.chinadaily.com.cn/
+
+IP: 103.23.108.200
+Result: sack-rcvr-success
+URL: https://www.pixnet.net/
+
+IP: 163.53.77.55
+Result: sack-rcvr-success
+URL: http://www.flipkart.com/
+
+IP: 209.177.88.4
+Result: sack-rcvr-success
+URL: http://www.xinhuanet.com/
+
+IP: 163.53.76.21
+Result: sack-rcvr-success
+URL: http://www.flipkart.com/
+
+IP: 195.8.215.139
+Result: sack-rcvr-success
+URL: http://www.dailymotion.com/us
+
+IP: 195.8.215.136
+Result: sack-rcvr-success
+URL: http://www.dailymotion.com/us
+
+IP: 195.8.215.137
+Result: sack-rcvr-success
+URL: http://www.dailymotion.com/us
+
+IP: 195.8.215.138
+Result: sack-rcvr-success
+URL: http://www.dailymotion.com/us
+
+IP: 221.204.23.18
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 221.204.171.42
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 119.188.138.29
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 108.160.172.206
+Result: sack-rcvr-success
+URL: https://www.dropbox.com/
+
+IP: 221.204.23.16
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 119.188.138.24
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 108.160.172.238
+Result: sack-rcvr-success
+URL: https://www.dropbox.com/
+
+IP: 27.195.146.10
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 23.235.47.194
+Result: sack-rcvr-success
+URL: http://www.wikia.com/Wikia
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.es/?gws_rd=ssl
+
+IP: 123.130.123.6
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 199.27.79.194
+Result: sack-rcvr-success
+URL: http://www.wikia.com/Wikia
+
+IP: 218.58.209.106
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 218.60.45.42
+Result: sack-rcvr-success
+URL: http://www.gmw.cn/
+
+IP: 216.58.217.195
+Result: sack-rcvr-success
+URL: https://www.google.co.kr/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.id/?gws_rd=ssl
+
+IP: 198.189.255.137
+Result: sack-rcvr-success
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 204.102.114.48
+Result: sack-rcvr-success
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 66.102.255.15
+Result: tcp-noconn
+URL: http://world.taobao.com/
+
+IP: 66.231.239.3
+Result: tcp-noconn
+URL: http://world.taobao.com/
+
+IP: 70.39.191.92
+Result: sack-rcvr-success
+URL: http://www.163.com/
+
+IP: 209.177.90.9
+Result: sack-rcvr-success
+URL: http://www.people.com.cn/
+
+IP: 209.177.90.14
+Result: sack-rcvr-success
+URL: http://www.people.com.cn/
+
+IP: 54.239.34.40
+Result: sack-incapable
+URL: http://www.amazon.in/
+
+IP: 54.152.121.3
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 54.164.123.247
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 66.231.239.4
+Result: tcp-noconn
+URL: https://www.tmall.com/
+
+IP: 66.102.255.16
+Result: tcp-noconn
+URL: https://www.tmall.com/
+
+IP: 205.204.96.54
+Result: tcp-noconn
+URL: http://www.aliexpress.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.pl/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.it/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.ru/?gws_rd=ssl
+
+IP: 173.223.52.192
+Result: tcp-noconn
+URL: http://www.cntv.cn/
+
+IP: 54.225.199.54
+Result: tcp-noconn
+URL: https://www.pinterest.com/
+
+IP: 101.227.172.11
+Result: sack-incapable
+URL: http://www.sohu.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.au/?gws_rd=ssl
+
+IP: 208.82.236.226
+Result: tcp-noconn
+URL: http://sandiego.craigslist.org/
+
+IP: 106.120.167.66
+Result: tcp-noconn
+URL: http://www.360.cn/
+
+IP: 205.204.96.172
+Result: tcp-noconn
+URL: http://www.alibaba.com/
+

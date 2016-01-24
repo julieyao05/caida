@@ -1,0 +1,1560 @@
+IP: 206.190.36.45
+Result: pmtud-success
+URL: https://www.yahoo.com/
+
+IP: 206.190.36.105
+Result: pmtud-toosmall
+URL: https://www.yahoo.com/
+
+IP: 199.59.150.39
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.co.in/?gws_rd=ssl
+
+IP: 103.235.46.39
+Result: pmtud-fail
+URL: http://www.baidu.com/
+
+IP: 199.59.149.230
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 69.171.230.5
+Result: pmtud-success
+URL: https://www.facebook.com/
+
+IP: 199.59.149.198
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 199.59.148.82
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 208.80.154.224
+Result: pmtud-toosmall
+URL: https://www.wikipedia.org/
+
+IP: 176.32.103.205
+Result: pmtud-success
+URL: https://www.amazon.com/gp/gw/ajax/s.html/177-3991512-1306838
+
+IP: 131.253.61.68
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.82
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.98
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.100
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 216.58.221.68
+Result: pmtud-nodf
+URL: https://www.google.com/?gws_rd=ssl
+
+IP: 66.231.239.3
+Result: pmtud-success
+URL: http://world.taobao.com/
+
+IP: 66.102.255.15
+Result: pmtud-success
+URL: http://world.taobao.com/
+
+IP: 182.22.59.229
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 66.211.181.161
+Result: pmtud-success
+URL: http://www.ebay.com/
+
+IP: 66.135.210.181
+Result: pmtud-success
+URL: http://www.ebay.com/
+
+IP: 66.211.181.181
+Result: pmtud-success
+URL: http://www.ebay.com/
+
+IP: 66.135.210.61
+Result: pmtud-success
+URL: http://www.ebay.com/
+
+IP: 124.83.235.204
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 182.22.63.230
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 203.90.242.119
+Result: pmtud-nodf
+URL: http://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=http://weibo.com/&domain=.weibo.com&ua=php-sso_sdk_client-0.6.11&_rand=1438984100.2064
+
+IP: 124.83.179.227
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.co.jp/?gws_rd=ssl
+
+IP: 204.79.197.203
+Result: pmtud-cleardf
+URL: http://www.msn.com/
+
+IP: 204.79.197.200
+Result: pmtud-cleardf
+URL: http://www.bing.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.de/?gws_rd=ssl
+
+IP: 198.41.208.143
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.142
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.141
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.139
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.143
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.140
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.141
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.140
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.138
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.142
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.137
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.139
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.137
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.138
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.136
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 54.165.19.143
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 52.0.75.234
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 107.23.166.70
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 52.5.130.130
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.co.uk/?gws_rd=ssl
+
+IP: 198.11.132.241
+Result: pmtud-fail
+URL: http://www.aliexpress.com/
+
+IP: 54.240.248.0
+Result: pmtud-success
+URL: http://www.amazon.co.jp/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.fr/?gws_rd=ssl
+
+IP: 216.58.217.206
+Result: pmtud-nodf
+URL: https://www.youtube.com/
+
+IP: 61.135.185.29
+Result: pmtud-fail
+URL: http://cn.hao123.com/
+
+IP: 173.223.52.194
+Result: pmtud-toosmall
+URL: http://www.ask.com/
+
+IP: 192.0.78.9
+Result: pmtud-toosmall
+URL: https://wordpress.com/
+
+IP: 54.173.13.19
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 50.17.199.10
+Result: tcp-noconn-rst
+URL: https://www.pinterest.com/
+
+IP: 107.23.95.80
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 192.0.78.17
+Result: pmtud-toosmall
+URL: https://wordpress.com/
+
+IP: 54.165.88.138
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 107.23.173.176
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.br/?gws_rd=ssl
+
+IP: 23.21.229.107
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 205.204.96.54
+Result: tcp-noconn
+URL: http://www.aliexpress.com/
+
+IP: 173.223.52.208
+Result: pmtud-toosmall
+URL: http://www.ask.com/
+
+IP: 108.174.10.10
+Result: pmtud-success
+URL: https://www.linkedin.com/
+
+IP: 123.125.112.45
+Result: pmtud-fail
+URL: http://cn.hao123.com/
+
+IP: 23.4.230.186
+Result: pmtud-toosmall
+URL: https://www.paypal.com/home
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.ru/?gws_rd=ssl
+
+IP: 23.21.43.162
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 66.6.42.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 66.6.41.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 66.6.43.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 78.140.145.202
+Result: pmtud-toosmall
+URL: http://www.onclickads.net/images/main.png
+
+IP: 50.17.211.134
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 23.235.39.193
+Result: pmtud-success
+URL: http://imgur.com/
+
+IP: 23.21.220.102
+Result: pmtud-toosmall
+URL: https://www.pinterest.com/
+
+IP: 217.69.139.200
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 94.100.180.202
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 217.69.139.202
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.it/?gws_rd=ssl
+
+IP: 94.100.180.200
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 50.18.211.49
+Result: pmtud-fail
+URL: http://www.fc2.com/
+
+IP: 216.58.217.205
+Result: pmtud-nodf
+URL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home
+
+IP: 54.244.126.7
+Result: pmtud-fail
+URL: https://www.netflix.com/
+
+IP: 87.240.131.97
+Result: pmtud-toosmall
+URL: http://vk.com/
+
+IP: 141.0.174.40
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 87.240.143.241
+Result: pmtud-toosmall
+URL: http://vk.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.es/?gws_rd=ssl
+
+IP: 66.198.178.4
+Result: pmtud-toosmall
+URL: https://www.tmall.com/
+
+IP: 87.240.131.99
+Result: pmtud-toosmall
+URL: http://vk.com/
+
+IP: 23.21.248.128
+Result: tcp-noconn
+URL: https://www.pinterest.com/
+
+IP: 5.255.255.5
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 5.255.255.55
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 207.171.162.180
+Result: pmtud-success
+URL: http://www.imdb.com/
+
+IP: 23.203.109.9
+Result: pmtud-success
+URL: http://www.apple.com/
+
+IP: 141.0.174.34
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.35
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.36
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.37
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.38
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.41
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.43
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.42
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.44
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 23.21.44.22
+Result: pmtud-toosmall
+URL: https://www.pinterest.com/
+
+IP: 104.16.105.85
+Result: pmtud-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.104.85
+Result: pmtud-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.103.85
+Result: pmtud-success
+URL: http://stackoverflow.com/
+
+IP: 104.16.106.85
+Result: pmtud-success
+URL: http://stackoverflow.com/
+
+IP: 208.82.238.146
+Result: pmtud-nodf
+URL: http://sandiego.craigslist.org/
+
+IP: 104.16.102.85
+Result: pmtud-success
+URL: http://stackoverflow.com/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.ca/?gws_rd=ssl
+
+IP: 191.238.18.91
+Result: pmtud-success
+URL: http://diply.com/
+
+IP: 124.225.65.154
+Result: pmtud-nodf
+URL: http://www.tianya.cn/
+
+IP: 58.63.236.248
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 173.223.52.176
+Result: pmtud-toosmall
+URL: http://www.qq.com/
+
+IP: 54.239.32.138
+Result: pmtud-success
+URL: http://www.amazon.de/
+
+IP: 77.88.55.66
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.com.hk/?gws_rd=ssl
+
+IP: 173.223.52.192
+Result: pmtud-success
+URL: http://www.naver.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.mx/?gws_rd=ssl
+
+IP: 173.223.52.170
+Result: pmtud-success
+URL: http://www.naver.com/
+
+IP: 217.20.147.94
+Result: pmtud-success
+URL: http://www.ok.ru/
+
+IP: 121.14.1.189
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 23.205.205.12
+Result: pmtud-success
+URL: http://www.outbrain.com/images/pages/engage/animation/visual-revenue/real-time-recommendations/computer.png
+
+IP: 184.25.238.235
+Result: pmtud-success
+URL: http://www.rakuten.co.jp/
+
+IP: 185.28.222.11
+Result: pmtud-toosmall
+URL: http://www.booking.com/index.en-gb.html?sid=2d3e030a4ef64e8642e3db53a43be019;dcid=1;bb_ltbi=0&sb_price_type=total&
+
+IP: 77.88.55.55
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 88.208.18.30
+Result: pmtud-success
+URL: http://xhamster.com/
+
+IP: 31.192.117.132
+Result: pmtud-fail
+URL: http://www.pornhub.com/
+
+IP: 217.20.156.159
+Result: pmtud-success
+URL: http://www.ok.ru/
+
+IP: 217.20.155.58
+Result: pmtud-success
+URL: http://www.ok.ru/
+
+IP: 106.120.167.66
+Result: pmtud-fail
+URL: http://www.360.cn/
+
+IP: 88.208.29.24
+Result: pmtud-fail
+URL: http://xhamster.com/
+
+IP: 192.150.16.64
+Result: pmtud-success
+URL: http://www.adobe.com/
+
+IP: 205.204.96.172
+Result: tcp-noconn
+URL: http://www.alibaba.com/
+
+IP: 121.14.1.190
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 184.25.234.147
+Result: pmtud-toosmall
+URL: http://www.microsoft.com/en-us/
+
+IP: 54.239.36.155
+Result: pmtud-success
+URL: http://www.amazon.co.uk/
+
+IP: 104.154.36.143
+Result: pmtud-success
+URL: https://www.adcash.com/en/index.php
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.au/?gws_rd=ssl
+
+IP: 163.53.77.55
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 203.90.249.162
+Result: pmtud-success
+URL: http://www.sogou.com/?rfrom=soso
+
+IP: 23.222.162.4
+Result: pmtud-success
+URL: http://www.ebay.de/
+
+IP: 23.235.47.73
+Result: pmtud-success
+URL: http://www.cnn.com/
+
+IP: 199.181.131.249
+Result: pmtud-success
+URL: http://go.com/
+
+IP: 163.53.76.21
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 163.53.76.55
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 163.53.77.22
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.id/?gws_rd=ssl
+
+IP: 212.58.246.91
+Result: pmtud-success
+URL: http://www.bbc.co.uk/
+
+IP: 209.177.88.4
+Result: pmtud-success
+URL: http://www.xinhuanet.com/
+
+IP: 212.58.246.90
+Result: pmtud-success
+URL: http://www.bbc.co.uk/
+
+IP: 101.227.172.11
+Result: pmtud-fail
+URL: http://www.sohu.com/
+
+IP: 202.248.110.243
+Result: pmtud-nodf
+URL: http://www.nicovideo.jp/
+
+IP: 209.177.82.39
+Result: pmtud-success
+URL: http://www.people.com.cn/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.pl/?gws_rd=ssl
+
+IP: 173.223.52.178
+Result: pmtud-success
+URL: http://www.cntv.cn/
+
+IP: 209.177.86.9
+Result: pmtud-success
+URL: http://www.people.com.cn/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.kr/?gws_rd=ssl
+
+IP: 103.23.108.200
+Result: pmtud-success
+URL: https://www.pixnet.net/
+
+IP: 192.30.252.129
+Result: pmtud-success
+URL: https://github.com/
+
+IP: 205.204.64.122
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 67.212.88.10
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 67.212.88.146
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 68.71.58.34
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 108.160.172.238
+Result: pmtud-success
+URL: https://www.dropbox.com/
+
+IP: 108.160.172.206
+Result: pmtud-success
+URL: https://www.dropbox.com/
+
+IP: 195.8.215.136
+Result: pmtud-success
+URL: http://www.dailymotion.com/us
+
+IP: 222.161.224.25
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 222.163.198.56
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 36.250.90.5
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 58.20.132.56
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 183.95.152.2
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 195.8.215.139
+Result: pmtud-success
+URL: http://www.dailymotion.com/us
+
+IP: 123.130.123.6
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.58.209.106
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.60.108.135
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.24.17.40
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 184.28.188.120
+Result: pmtud-success
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 195.8.215.137
+Result: pmtud-success
+URL: http://www.dailymotion.com/us
+
+IP: 195.8.215.138
+Result: pmtud-success
+URL: http://www.dailymotion.com/us
+
+IP: 199.27.79.194
+Result: pmtud-success
+URL: http://www.wikia.com/Wikia
+
+IP: 173.223.52.202
+Result: pmtud-success
+URL: http://www.qq.com/
+
+IP: 206.190.36.45
+Result: pmtud-success
+URL: https://www.yahoo.com/
+
+IP: 206.190.36.105
+Result: pmtud-success
+URL: https://www.yahoo.com/
+
+IP: 23.235.47.194
+Result: pmtud-success
+URL: http://www.wikia.com/Wikia
+
+IP: 70.39.191.92
+Result: pmtud-success
+URL: http://www.163.com/
+
+IP: 69.171.230.5
+Result: pmtud-toosmall
+URL: https://www.facebook.com/
+
+IP: 184.28.188.136
+Result: tcp-noconn
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 178.236.7.18
+Result: pmtud-success
+URL: http://www.amazon.in/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.in/?gws_rd=ssl
+
+IP: 199.59.150.39
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 208.80.154.224
+Result: pmtud-success
+URL: https://www.wikipedia.org/
+
+IP: 199.59.148.82
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 199.59.149.198
+Result: pmtud-success
+URL: https://twitter.com/
+
+IP: 103.235.46.39
+Result: pmtud-fail
+URL: http://www.baidu.com/
+
+IP: 50.16.238.198
+Result: pmtud-toosmall
+URL: https://www.pinterest.com/
+
+IP: 131.253.61.82
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.68
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.98
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 131.253.61.100
+Result: pmtud-success
+URL: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1438984097&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https://mail.live.com/default.aspx?rru=inbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai
+
+IP: 216.58.221.68
+Result: pmtud-nodf
+URL: https://www.google.com/?gws_rd=ssl
+
+IP: 66.231.239.3
+Result: pmtud-success
+URL: http://world.taobao.com/
+
+IP: 66.102.255.15
+Result: pmtud-success
+URL: http://world.taobao.com/
+
+IP: 66.135.210.181
+Result: pmtud-success
+URL: http://www.ebay.com/
+
+IP: 182.22.59.229
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 124.83.179.227
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 124.83.235.204
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 182.22.63.230
+Result: pmtud-success
+URL: http://www.yahoo.co.jp/
+
+IP: 66.211.181.161
+Result: pmtud-toosmall
+URL: http://www.ebay.com/
+
+IP: 66.211.181.181
+Result: pmtud-toosmall
+URL: http://www.ebay.com/
+
+IP: 203.90.242.119
+Result: pmtud-nodf
+URL: http://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=http://weibo.com/&domain=.weibo.com&ua=php-sso_sdk_client-0.6.11&_rand=1438984100.2064
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.co.jp/?gws_rd=ssl
+
+IP: 173.223.52.192
+Result: pmtud-toosmall
+URL: http://www.cntv.cn/
+
+IP: 23.236.126.18
+Result: pmtud-nodata
+URL: http://www.chinadaily.com.cn/
+
+IP: 87.240.131.97
+Result: pmtud-success
+URL: http://vk.com/
+
+IP: 87.240.131.99
+Result: pmtud-success
+URL: http://vk.com/
+
+IP: 87.240.143.241
+Result: pmtud-success
+URL: http://vk.com/
+
+IP: 66.135.210.61
+Result: pmtud-toosmall
+URL: http://www.ebay.com/
+
+IP: 216.58.217.205
+Result: pmtud-nodf
+URL: https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home
+
+IP: 216.58.217.206
+Result: pmtud-nodf
+URL: https://www.youtube.com/
+
+IP: 204.79.197.200
+Result: pmtud-cleardf
+URL: http://www.bing.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.de/?gws_rd=ssl
+
+IP: 198.41.208.143
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.139
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.142
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 54.165.19.143
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 107.23.166.70
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 204.79.197.203
+Result: pmtud-cleardf
+URL: http://www.msn.com/
+
+IP: 52.0.75.234
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 52.5.130.130
+Result: pmtud-fail
+URL: https://instagram.com/
+
+IP: 198.41.208.141
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.143
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.140
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.141
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.140
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.138
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.142
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.137
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.uk/?gws_rd=ssl
+
+IP: 198.41.208.139
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.208.138
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 198.41.209.136
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.fr/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.br/?gws_rd=ssl
+
+IP: 61.135.185.29
+Result: pmtud-fail
+URL: http://cn.hao123.com/
+
+IP: 123.125.112.45
+Result: pmtud-fail
+URL: http://cn.hao123.com/
+
+IP: 173.223.52.194
+Result: pmtud-success
+URL: http://www.ask.com/
+
+IP: 54.173.13.19
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 107.23.95.80
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 54.165.88.138
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 107.23.173.176
+Result: tcp-noconn
+URL: https://instagram.com/
+
+IP: 184.25.234.147
+Result: pmtud-success
+URL: http://www.microsoft.com/en-us/
+
+IP: 198.11.132.241
+Result: pmtud-fail
+URL: http://www.aliexpress.com/
+
+IP: 192.0.78.9
+Result: pmtud-success
+URL: https://wordpress.com/
+
+IP: 192.0.78.17
+Result: pmtud-success
+URL: https://wordpress.com/
+
+IP: 50.17.199.10
+Result: tcp-noconn-rst
+URL: https://www.pinterest.com/
+
+IP: 173.223.52.208
+Result: pmtud-success
+URL: http://www.ask.com/
+
+IP: 23.21.220.102
+Result: pmtud-success
+URL: https://www.pinterest.com/
+
+IP: 23.21.229.107
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 50.17.211.134
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 205.204.96.54
+Result: tcp-noconn
+URL: http://www.aliexpress.com/
+
+IP: 23.21.43.162
+Result: pmtud-fail
+URL: https://www.pinterest.com/
+
+IP: 66.6.42.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 23.235.39.193
+Result: pmtud-success
+URL: http://imgur.com/
+
+IP: 23.4.230.186
+Result: pmtud-success
+URL: https://www.paypal.com/home
+
+IP: 66.6.41.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 66.6.43.30
+Result: pmtud-fail
+URL: https://www.tumblr.com/
+
+IP: 50.16.238.198
+Result: pmtud-success
+URL: https://www.pinterest.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.ru/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.it/?gws_rd=ssl
+
+IP: 108.174.10.10
+Result: pmtud-success
+URL: https://www.linkedin.com/
+
+IP: 50.18.211.49
+Result: pmtud-fail
+URL: http://www.fc2.com/
+
+IP: 54.244.126.7
+Result: pmtud-fail
+URL: https://www.netflix.com/
+
+IP: 217.69.139.200
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 94.100.180.202
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 217.69.139.202
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 94.100.180.200
+Result: pmtud-success
+URL: https://mail.ru/
+
+IP: 141.0.174.38
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 78.140.145.202
+Result: pmtud-toosmall
+URL: http://www.onclickads.net/images/main.png
+
+IP: 66.198.178.4
+Result: pmtud-toosmall
+URL: https://www.tmall.com/
+
+IP: 23.21.248.128
+Result: tcp-noconn
+URL: https://www.pinterest.com/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.es/?gws_rd=ssl
+
+IP: 77.88.55.66
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 77.88.55.55
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 23.203.109.9
+Result: pmtud-success
+URL: http://www.apple.com/
+
+IP: 5.255.255.5
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 173.223.52.176
+Result: pmtud-success
+URL: http://www.qq.com/
+
+IP: 198.41.208.137
+Result: pmtud-toosmall
+URL: http://www.reddit.com/
+
+IP: 207.171.162.180
+Result: pmtud-toosmall
+URL: http://www.imdb.com/
+
+IP: 124.225.65.154
+Result: pmtud-nodf
+URL: http://www.tianya.cn/
+
+IP: 208.82.238.146
+Result: pmtud-nodf
+URL: http://sandiego.craigslist.org/
+
+IP: 191.238.18.91
+Result: pmtud-success
+URL: http://diply.com/
+
+IP: 141.0.174.34
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.35
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.36
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.37
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.40
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.41
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 23.21.44.22
+Result: pmtud-toosmall
+URL: https://www.pinterest.com/
+
+IP: 141.0.174.42
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.43
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 141.0.174.44
+Result: pmtud-fail
+URL: http://www.xvideos.com/
+
+IP: 5.255.255.55
+Result: pmtud-nodf
+URL: https://www.yandex.ru/
+
+IP: 173.223.52.170
+Result: pmtud-toosmall
+URL: http://www.naver.com/
+
+IP: 31.192.117.132
+Result: pmtud-fail
+URL: http://www.pornhub.com/
+
+IP: 173.223.52.192
+Result: pmtud-toosmall
+URL: http://www.naver.com/
+
+IP: 88.208.29.24
+Result: pmtud-fail
+URL: http://xhamster.com/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.ca/?gws_rd=ssl
+
+IP: 184.25.238.235
+Result: pmtud-success
+URL: http://www.rakuten.co.jp/
+
+IP: 205.204.96.172
+Result: tcp-noconn
+URL: http://www.alibaba.com/
+
+IP: 217.20.155.58
+Result: pmtud-toosmall
+URL: http://www.ok.ru/
+
+IP: 23.205.205.12
+Result: pmtud-toosmall
+URL: http://www.outbrain.com/images/pages/engage/animation/visual-revenue/real-time-recommendations/computer.png
+
+IP: 106.120.167.66
+Result: pmtud-fail
+URL: http://www.360.cn/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.com.mx/?gws_rd=ssl
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.hk/?gws_rd=ssl
+
+IP: 185.28.222.11
+Result: pmtud-toosmall
+URL: http://www.booking.com/index.en-gb.html?sid=2d3e030a4ef64e8642e3db53a43be019;dcid=1;bb_ltbi=0&sb_price_type=total&
+
+IP: 88.208.18.30
+Result: pmtud-toosmall
+URL: http://xhamster.com/
+
+IP: 23.235.47.73
+Result: pmtud-success
+URL: http://www.cnn.com/
+
+IP: 104.16.104.85
+Result: pmtud-toosmall
+URL: http://stackoverflow.com/
+
+IP: 67.212.88.10
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 205.204.64.122
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 199.59.149.230
+Result: pmtud-toosmall
+URL: https://twitter.com/
+
+IP: 202.248.110.243
+Result: pmtud-nodf
+URL: http://www.nicovideo.jp/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.com.au/?gws_rd=ssl
+
+IP: 104.154.36.143
+Result: pmtud-toosmall
+URL: https://www.adcash.com/en/index.php
+
+IP: 203.90.249.162
+Result: pmtud-toosmall
+URL: http://www.sogou.com/?rfrom=soso
+
+IP: 67.212.88.146
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 68.71.58.34
+Result: pmtud-toosmall
+URL: http://kat.cr/
+
+IP: 23.222.162.4
+Result: pmtud-success
+URL: http://www.ebay.de/
+
+IP: 163.53.77.55
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 163.53.76.21
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 163.53.76.55
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 163.53.77.22
+Result: pmtud-toosmall
+URL: http://www.flipkart.com/
+
+IP: 212.58.246.91
+Result: pmtud-success
+URL: http://www.bbc.co.uk/
+
+IP: 209.177.88.4
+Result: pmtud-success
+URL: http://www.xinhuanet.com/
+
+IP: 101.227.172.11
+Result: pmtud-fail
+URL: http://www.sohu.com/
+
+IP: 199.181.131.249
+Result: tcp-rst
+URL: http://go.com/
+
+IP: 108.160.172.238
+Result: pmtud-success
+URL: https://www.dropbox.com/
+
+IP: 192.30.252.129
+Result: pmtud-toosmall
+URL: https://github.com/
+
+IP: 108.160.172.206
+Result: pmtud-success
+URL: https://www.dropbox.com/
+
+IP: 216.58.217.195
+Result: pmtud-nodf
+URL: https://www.google.co.id/?gws_rd=ssl
+
+IP: 103.23.108.200
+Result: tcp-rst
+URL: https://www.pixnet.net/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.co.kr/?gws_rd=ssl
+
+IP: 199.27.79.194
+Result: pmtud-success
+URL: http://www.wikia.com/Wikia
+
+IP: 58.63.236.248
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 216.58.217.195
+Result: tcp-noconn
+URL: https://www.google.pl/?gws_rd=ssl
+
+IP: 54.240.248.0
+Result: pmtud-toosmall
+URL: http://www.amazon.co.jp/
+
+IP: 121.14.1.189
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 222.161.224.25
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 222.163.198.56
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 58.20.132.56
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 183.95.152.2
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 36.250.90.5
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 212.58.246.90
+Result: pmtud-toosmall
+URL: http://www.bbc.co.uk/
+
+IP: 123.130.123.6
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.58.209.106
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.60.108.135
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 218.24.17.40
+Result: pmtud-fail
+URL: http://www.gmw.cn/
+
+IP: 23.235.47.194
+Result: pmtud-success
+URL: http://www.wikia.com/Wikia
+
+IP: 121.14.1.190
+Result: pmtud-nodf
+URL: http://www.sina.com.cn/
+
+IP: 184.28.188.136
+Result: tcp-noconn
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 209.177.82.39
+Result: pmtud-toosmall
+URL: http://www.people.com.cn/
+
+IP: 173.223.52.192
+Result: pmtud-toosmall
+URL: http://www.cntv.cn/
+
+IP: 217.20.156.159
+Result: pmtud-toosmall
+URL: http://www.ok.ru/
+
+IP: 195.8.215.136
+Result: pmtud-toosmall
+URL: http://www.dailymotion.com/us
+
+IP: 209.177.86.9
+Result: pmtud-toosmall
+URL: http://www.people.com.cn/
+
+IP: 217.20.147.94
+Result: pmtud-toosmall
+URL: http://www.ok.ru/
+
+IP: 23.236.126.18
+Result: pmtud-nodata
+URL: http://www.chinadaily.com.cn/
+
+IP: 173.223.52.178
+Result: pmtud-toosmall
+URL: http://www.cntv.cn/
+
+IP: 104.16.105.85
+Result: pmtud-toosmall
+URL: http://stackoverflow.com/
+
+IP: 178.236.7.18
+Result: pmtud-success
+URL: http://www.amazon.in/
+
+IP: 104.16.102.85
+Result: pmtud-toosmall
+URL: http://stackoverflow.com/
+
+IP: 104.16.103.85
+Result: pmtud-toosmall
+URL: http://stackoverflow.com/
+
+IP: 173.223.52.202
+Result: pmtud-toosmall
+URL: http://www.qq.com/
+
+IP: 104.16.106.85
+Result: pmtud-toosmall
+URL: http://stackoverflow.com/
+
+IP: 176.32.103.205
+Result: pmtud-toosmall
+URL: https://www.amazon.com/gp/gw/ajax/s.html/177-3991512-1306838
+
+IP: 195.8.215.139
+Result: pmtud-toosmall
+URL: http://www.dailymotion.com/us
+
+IP: 195.8.215.137
+Result: pmtud-toosmall
+URL: http://www.dailymotion.com/us
+
+IP: 184.28.188.120
+Result: pmtud-toosmall
+URL: http://www.dailymail.co.uk/ushome/index.html
+
+IP: 54.239.36.155
+Result: pmtud-toosmall
+URL: http://www.amazon.co.uk/
+
+IP: 195.8.215.138
+Result: pmtud-toosmall
+URL: http://www.dailymotion.com/us
+
+IP: 192.150.16.64
+Result: pmtud-toosmall
+URL: http://www.adobe.com/
+
+IP: 70.39.191.92
+Result: pmtud-toosmall
+URL: http://www.163.com/
+
+IP: 54.239.32.138
+Result: pmtud-toosmall
+URL: http://www.amazon.de/
+
